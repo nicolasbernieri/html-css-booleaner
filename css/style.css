@@ -1,35 +1,56 @@
-.logo{
+.logo {
     height: 40px;
 }
 
-.background{
+.background {
     background-color: rgb(0, 128, 255);
     height: 70px;
 }
 
-.grey-subtitle{
+.grey-subtitle {
     color: rgb(97, 94, 100);
 }
 
-.blue-subtitle{
+.blue-subtitle {
     color: rgb(0, 128, 255);
 }
-.credits{
-font-size: 10px;
+
+.credits {
+    font-size: 10px;
 }
 
-.highlighted-text{
+.highlighted-text {
     background-color: yellow;
 }
-.table-head{
+
+.table-head {
     background-color: rgb(26, 144, 228);
     color: aliceblue;
 }
 
-.first-line{
+.first-line {
     background-color: rgb(40, 219, 219);
 }
 
-.third-line{
+.third-line {
     background-color: rgb(40, 219, 219);
+}
+
+.suggestions {
+    color: rgb(97, 94, 100);
+}
+
+.image{
+    position: relative;
+}
+
+
+.text-image{
+    position: absolute;
+    top: 2%;
+    left: 2%;
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    font-weight: bold;
+
 }
