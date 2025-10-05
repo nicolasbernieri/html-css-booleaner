@@ -1,0 +1,16 @@
+.logo{
+    height: 40px;
+}
+
+.background{
+    background-color: rgb(0, 128, 255);
+    height: 70px;
+}
+
+.grey-subtitle{
+    color: rgb(97, 94, 100);
+}
+
+.blue-subtitle{
+    color: rgb(0, 128, 255);
+}
