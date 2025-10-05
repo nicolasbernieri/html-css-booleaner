@@ -17,3 +17,19 @@
 .credits{
 font-size: 10px;
 }
+
+.highlighted-text{
+    background-color: yellow;
+}
+.table-head{
+    background-color: rgb(26, 144, 228);
+    color: aliceblue;
+}
+
+.first-line{
+    background-color: rgb(40, 219, 219);
+}
+
+.third-line{
+    background-color: rgb(40, 219, 219);
+}
