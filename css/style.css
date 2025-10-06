@@ -27,9 +27,14 @@
     background-color: yellow;
 }
 
+table {
+    border-spacing: 0px;
+}
+
 .table-head {
     background-color: rgb(26, 144, 228);
     color: aliceblue;
+    text-align: left;
 }
 
 .first-line {
@@ -44,12 +49,12 @@
     color: rgb(97, 94, 100);
 }
 
-.image{
+.image {
     position: relative;
 }
 
 
-.text-image{
+.text-image {
     position: absolute;
     top: 2%;
     left: 2%;
